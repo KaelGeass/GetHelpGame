@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5592826582180516495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5592826582180516492}
+  - component: {fileID: 5592826582180516493}
+  m_Layer: 0
+  m_Name: SoundEffects
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5592826582180516492
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5592826582180516495}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.894288, y: 5.35062, z: -174.70508}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5592826582180516493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5592826582180516495}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f419fed7ab31114f9723796291fc4f5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bark: {fileID: 8300000, guid: 971209b641c32964bb463560dc88cf6f, type: 3}
+  coin: {fileID: 8300000, guid: 2ac6d7985c90096409870ab91cca0000, type: 3}
+  damage: {fileID: 8300000, guid: 84c3ee25831861d438a7ac13bf0efcdf, type: 3}
+  fanfare: {fileID: 8300000, guid: 3e6d5c8fd2a85fa46a0bae0d23c34c18, type: 3}
+  getItem: {fileID: 8300000, guid: a2c43d982e271b241aef4f59b86d34d6, type: 3}
+  giveItem: {fileID: 8300000, guid: a2c43d982e271b241aef4f59b86d34d6, type: 3}
+  jump: {fileID: 8300000, guid: b96a05ad21006324d8eb271566631e59, type: 3}
+  jumpAnim: {fileID: 8300000, guid: 0db41d7d6a5cb264b9a2ed898d9825b3, type: 3}
+  right: {fileID: 8300000, guid: 89b76deb1e2bd2a41ae30c6f2035f89a, type: 3}
+  transition: {fileID: 8300000, guid: 4c64bb8d69fea384b83078ec84b9cf3b, type: 3}
+  wrong: {fileID: 8300000, guid: 3d30abb23a0d7ee4f8122efcd7dfce50, type: 3}
+  CemiterioTheme: {fileID: 8300000, guid: 82c82a4e78338424ca461d1662d4a341, type: 3}
+  MenuTheme: {fileID: 8300000, guid: 67860e0e606ddd34bbd31d0b94f6c467, type: 3}
+  FlorestaTheme: {fileID: 8300000, guid: 31baf28629a3494458ead9f53c7f4ab7, type: 3}
+  AcampamentoTheme: {fileID: 8300000, guid: c8740a4b1457fd6449516b176d30a779, type: 3}
+  CidadeTheme: {fileID: 8300000, guid: 305444618b3dbd14f9e6af265e5d5876, type: 3}
+  animationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4

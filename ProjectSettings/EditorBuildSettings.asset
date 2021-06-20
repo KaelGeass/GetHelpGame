@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 4ef19a6bba5e13f4ebe21353c1842f1a
+  - enabled: 1
+    path: Assets/Scenes/Cemiterio.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cidade.unity
+    guid: 14f003b3a7ce415479001028dc5df980
+  - enabled: 1
+    path: Assets/Scenes/Floresta.unity
+    guid: 3efc4c4f5da551c48a821c7679de5d8a
+  - enabled: 1
+    path: Assets/Scenes/Acampamento.unity
+    guid: acb79b039e0909f458c3e4d5f1a92a85
+  m_configObjects: {}

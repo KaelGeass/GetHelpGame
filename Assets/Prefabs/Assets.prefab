@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1996904514038685119
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1996904514038685117}
+  - component: {fileID: 1996904514038685118}
+  m_Layer: 0
+  m_Name: Assets
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1996904514038685117
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1996904514038685119}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -18.451916, y: 1.5987676, z: -28.771484}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1996904514038685118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1996904514038685119}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06a38f1ed1c533744a281e8851242c2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  balde: {fileID: 21300000, guid: 0e0224626fa4b7743af79e097e079e3c, type: 3}
+  corda: {fileID: 21300000, guid: 52666a25147c298419fcc4f9d93f92d0, type: 3}
+  moedas: {fileID: 21300000, guid: f6293bf43e6d15f49acddfa9bc8fbc8a, type: 3}
+  isqueiro: {fileID: 21300000, guid: 8cafaf7acc0ccd841bfa986b6149e507, type: 3}
+  doce: {fileID: 21300000, guid: 6600d660162199b4ab8daae768f0a45c, type: 3}
+  uvas: {fileID: 21300000, guid: 5c8e5a5d7ad52d3479310f401dd41b92, type: 3}
+  uva: {fileID: 21300000, guid: b4dd39b44a92e7e41a4b42dcefb7a381, type: 3}
+  angry: {fileID: 21300000, guid: cceca185cb1fb7842b41f4b65e06a92f, type: 3}
+  happy: {fileID: 21300000, guid: 4f1aff715139d5c40b81299e1f1ef1ab, type: 3}
+  sad: {fileID: 21300000, guid: 2baad93fe4b812d4b829bc95e237aa18, type: 3}
+  arrow: {fileID: 21300000, guid: 6c210dd0e97a7d541a8017f8fb2bf794, type: 3}
+  question: {fileID: 21300000, guid: 6683eb85e94877d4ea2a319617fd6943, type: 3}
+  x: {fileID: 21300000, guid: aa51f2be7757efa4badd36aebc62b0ef, type: 3}
+  plus: {fileID: 21300000, guid: 7da7f8ae58c7ef146ae1204d3f535b3a, type: 3}
+  trade: {fileID: 21300000, guid: b05f54cbd96019d478d69b9077847410, type: 3}
+  cemiterio: {fileID: 21300000, guid: 5234fb9e64d15324d958890e25ec8cf3, type: 3}
+  cidade: {fileID: 21300000, guid: 441efe3d74f3f5f478e266e69be7bd2f, type: 3}
+  floresta: {fileID: 21300000, guid: 8ac391060abf88d4db0508797d2fa46e, type: 3}
+  acampamento: {fileID: 21300000, guid: 0426d31ecc06c6f47b79df4e1beff655, type: 3}
+  ignored: {fileID: 21300000, guid: e5926cb2a6375f141b74dfd0f9692140, type: 3}
